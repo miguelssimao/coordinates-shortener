@@ -1,6 +1,6 @@
 # :round_pushpin: Coordinates Shortener
 
-A <a href="https://coordinates-shortener.vercel.app">web</a> tool designed to shorten geographical coordinates to either 6 or 5 decimal digits, providing a more compact representation when sharing locations.
+A [web](https://coordinates-shortener.vercel.app/) tool designed to shorten geographical coordinates to either 6 or 5 decimal digits, providing a more compact representation when sharing locations.
 
 ## Features
 
@@ -13,7 +13,7 @@ A <a href="https://coordinates-shortener.vercel.app">web</a> tool designed to sh
 
 ## Usage
 
-:globe_with_meridians: **This tool is available online <a href="https://coordinates-shortener.vercel.app">here</a>**.
+:globe_with_meridians: **This tool is available online [here](https://coordinates-shortener.vercel.app/)**.
 
 1.  Enter coordinates in the latitude, longitude format
 2.  Choose between the 5 or 6 decimal digit options
