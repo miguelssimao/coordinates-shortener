@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Coordinates Shortener</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="icons/icons.css">
+  <link rel="icon" type="image/png" href="icons/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="icons/favicon.svg" />
+  <link rel="shortcut icon" href="icons/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-title" content="Coordinates Shortener" />
+  <link rel="manifest" href="icons/site.webmanifest" />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link href="css/style.min.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>Coordinates Shortener</h1>
+    <div class="check-group">
+      <input type="checkbox" autocomplete="off" id="sixDecimals" checked>
+      <label for="sixDecimals">6 decimal digits</label>
+      <input type="checkbox" autocomplete="off" id="fiveDecimals">
+      <label for="fiveDecimals">5 decimal digits</label>
+    </div>
+    <p>Enter coordinates in this format: latitude, longitude</p>
+    <div class="input-group">
+      <input type="text" autocomplete="off" id="coordInput" placeholder="e.g. 1.2345678, -1.2345678">
+      <button id="toggleSpaces" class="spaces-button" title="Remove spaces">
+        <span class="icon-spacebar-on"></span>
+      </button>
+    </div>
+    <div id="result-container">
+      <div id="result">...</div>
+      <button id="copyButton" class="copy-button" title="Copy">
+        <span class="icon-copy"></span>
+      </button>
+    </div>
+  </div>
+  <script src="js/script.min.js"></script>
+</body>
+
+</html>
