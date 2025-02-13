@@ -5,8 +5,8 @@ A [web](https://coordinates-shortener.vercel.app/) tool designed to shorten geog
 ## Features
 
 *   **Decimal Precision:** shorten coordinates to either 6 or 5 decimal digits
-*   **Formatting Options:** remove or keep spaces from the shortened result
-*   **Copy to Clipboard:** Easily copy the shortened coordinates to your clipboard
+*   **Formatting Options:** keep or remove spaces from the shortened result
+*   **Copy to Clipboard:** easily copy the shortened coordinates to your clipboard
 *   **User-Friendly Interface:** simple and clean design with light and dark themes
 *   **Error Handling:** input validation prevents errors from incorrect formats or invalid values
 *   **Mobile Responsiveness:** the tool is designed to also work on smaller screen sizes or devices
