@@ -1,6 +1,6 @@
-# :round_pushpin: Coordinates Shortener
+# Coordinates Shortener
 
-A [web](https://coordinates-shortener.vercel.app/) tool designed to shorten geographical coordinates to either 6 or 5 decimal digits, providing a more compact representation when sharing locations.
+A [web](https://coordinates-shortener.vercel.app/) application designed to shorten geographical coordinates to either 6 or 5 decimal digits, providing a more compact representation when sharing locations.
 
 ## Features
 
@@ -9,7 +9,7 @@ A [web](https://coordinates-shortener.vercel.app/) tool designed to shorten geog
 *   **Copy to Clipboard:** easily copy the shortened coordinates to your clipboard
 *   **User-Friendly Interface:** simple and clean design with light and dark themes
 *   **Error Handling:** input validation prevents errors from incorrect formats or invalid values
-*   **Mobile Responsiveness:** the tool is designed to also work on smaller screen sizes or devices
+*   **Mobile Responsiveness:** designed to also work on smaller screen sizes and mobile devices
 
 ## Usage
 
